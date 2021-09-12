@@ -1,7 +1,7 @@
 ## ❔ About
 This package is API that can randomly generate a string.
 ## 🏁 Installation
-```
+```sh
 npm i rstringapi
 
 # Dev Version

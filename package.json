@@ -1,0 +1,31 @@
+{
+  "name": "rstringapi",
+  "version": "1.0.0",
+  "description": "API that can randomly generate a string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "random",
+    "random string",
+    "random api",
+    "random string api",
+    "string api"
+  ],
+  "author": "DaneeSkripter",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaneeSkripter/random-string-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DaneeSkripter/random-string-api/issues"
+  },
+  "homepage": "https://github.com/DaneeSkripter/random-string-api#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "express": "^4.17.1"
+  }
+}

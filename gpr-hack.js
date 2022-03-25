@@ -7,6 +7,6 @@ const file = readFileSync("./package.json", {
 
 const json = JSON.parse(file);
 
-json.name = "rstringapi";
+json.name = "daneeskripter/rstringapi";
 
 writeFileSync("./package.json", JSON.stringify(json, undefined, 2));

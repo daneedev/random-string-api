@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/DaneeSkripter/random-string-api#readme",
   "dependencies": {
-    "axios": "^0.21.4",
+    "axios": "^1.6.0",
     "express": "^4.17.1"
   }
 }
